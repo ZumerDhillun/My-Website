@@ -1,0 +1,78 @@
+
+
+  header, section, footer {
+    margin-bottom: 20px;
+  }
+  
+  footer form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  header {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+  }
+  .course-description {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  
+  .course-description p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+  .course-modules h2 {
+    margin-bottom: 15px;
+  }
+  
+  .course-modules ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+ 
+  .skills-developed ol {
+    margin-left: 20px;
+  }
+  
+  
+  footer {
+    text-align: center;
+  }
+  
+  footer h2 {
+    margin-bottom: 20px;
+  }
+  
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  button[type="submit"] {
+    background-color: #2f54eb;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
